@@ -2,6 +2,7 @@
 
 
 <h3>S.O.L.I.D: Os 5 princípios da POO </h3>
+<p>implementação teste com os conceitos aprendidos ♨ </p>
 
 <ul>
   <li>S — Single Responsiblity Principle (Princípio da responsabilidade única)</li>
